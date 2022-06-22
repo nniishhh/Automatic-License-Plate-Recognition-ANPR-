@@ -37,5 +37,5 @@ The license plate detection can be used in places where the record of registrati
 ### Step 6: Record Timestamp
 - Collect time (in and out), license number and province and put them in dataframe
 
-##Ref
+## Ref
 https://ksingh7.medium.com/part-i-using-a-pre-trained-keras-model-for-license-plate-detection-7687739af758
